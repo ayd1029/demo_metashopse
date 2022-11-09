@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "730440366276",
+    "firebase_url": "https://sellerz.firebaseio.com",
+    "project_id": "sellerz",
+    "storage_bucket": "sellerz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730440366276:android:6749997fe2ece689",
+        "android_client_info": {
+          "package_name": "kr.oneon.sellerz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730440366276-nu1bk5ph2qhiv1hati6r2fb9oag0522f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.oneon.sellerz",
+            "certificate_hash": "915bc3fcb84722612a70b483bf6a89743b7acfe2"
+          }
+        },
+        {
+          "client_id": "730440366276-aul1m4qe7oipt9fnuu018apmaf9n3o1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjKYIcvfX_YwsKuFb_STQ5xNBdgEFkTcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730440366276-aul1m4qe7oipt9fnuu018apmaf9n3o1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
